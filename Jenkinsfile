@@ -109,7 +109,6 @@ pipeline {
         }
     }
 }
-``````groovy
 pipeline {
     agent any
 
